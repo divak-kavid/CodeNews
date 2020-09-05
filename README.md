@@ -1,5 +1,5 @@
 # CodeNews
-**Projeto realizado com o melhor tempo possível entregando o melhor resultado o possívels**
+**Projeto realizado com o melhor tempo possível, entregando o melhor resultado o possível**
 
 🔗 React Native [link](https://reactnative.dev/ "Heading link")
 
